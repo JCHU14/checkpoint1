@@ -1,0 +1,81 @@
+.bgorange {
+    background-color: green;
+}
+
+.bgimage {
+    background-image: url(https://media.istockphoto.com/id/1483466231/photo/fly-fishing.webp?b=1&s=170667a&w=0&k=20&c=aEcIv88GLdlIzCfsMreF61j_c0xquPwIvOSYdxe4rq4=);
+    background-size: cover;
+    background-position: center;
+    min-height: 60vh;
+}
+
+.green {
+    background-color: rgba(5, 238, 5, 0.175);
+    color: green;
+}
+
+.headtext {
+    text-shadow: 5px 5px 10px black;
+    color: white;
+    font-size: larger;
+}
+
+.bigtext {
+    text-shadow: 5px 5px 10px black;
+    color: white;
+    font-size: xx-large;
+}
+
+
+.gtext {
+    color: green;
+}
+
+
+
+.star {
+    color: rgb(159, 159, 0);
+}
+
+.darkgreen {
+    background-color: darkgreen;
+}
+
+.img56 {
+    max-height: 50vh;
+    background-size: cover;
+}
+
+.footerbg {
+    background-color: darkgreen;
+}
+
+.bgyellow {
+    background-color: black;
+}
+
+@media (min-width: 768px) {
+    .pour {
+        position: absolute;
+        left: 55%;
+        margin-top: 25px;
+        box-shadow: 0px 5px 10px
+    }
+}
+
+
+.padding {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+@media (max-width: 767px) {
+    .midtext {
+        font-size: 0px;
+    }
+}
+
+
+.fancy {
+    font-family: "Dancing Script", cursive;
+}
